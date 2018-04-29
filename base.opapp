@@ -23,19 +23,19 @@ __opapp_include(readme.md)
 
 [template main 6 7]
 __opapp_include(elements/index.html)
-__opapp_include(../lib/polymer/templates/template_end.m4)
+__opapp_include(lib/polymer/templates/template_end.m4)
 
 [template index_variante_1 6 7]
 __opapp_include(elements/index_variante_1.html)
-__opapp_include(../lib/polymer/templates/template_end.m4)
+__opapp_include(lib/polymer/templates/template_end.m4)
 
 [template admin 6 7]
 __opapp_include(elements/admin.html)
-__opapp_include(../lib/polymer/templates/template_end.m4)
+__opapp_include(lib/polymer/templates/template_end.m4)
 
 
 [javascript]
-__opapp_include(../lib/polymer/elements/main.js)
+__opapp_include(lib/polymer/elements/main.js)
 
 
 [css]
